@@ -11,18 +11,15 @@ As part of responding with task of creating a community portal for software deve
 
 ## Experience from the Project
 
-- Able to design a command line application using Java.
-- Defined basic algorithms to carry out database operations and outline the process of programming a web application.
-- Showed knowledge of procedural, object orientated and event-driven programming.
-- Implemented an application using IntelliJ or Eclipse.
-- Determined the debugging process and explain the importance of a coding standard.
-- Conducted unit testing and develop technical documentation.
+- Execute the UX Design Process
+- Design a prototype in any prototyping tools like Axure Rp
+- Conduct Usability Testing for the Prototype
 
 ## Tools and Platforms
 
-- Execute the UX Design Process
-- Design a prototype in any prototyping tools like Axure Rp
-- Conduct Usability Testing for the Prototype.
-
+- Axure Rp Tool
+- MS Word
+- MS Excel
+- Web Browser
 
 ## Result
